@@ -1,0 +1,5 @@
+# compiled program
+src/prog
+
+# vim cached files
+*.swp
